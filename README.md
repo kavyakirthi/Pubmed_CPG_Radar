@@ -32,7 +32,7 @@ Magnesium is an essential mineral and lightweight metallic element with a wide r
 5. Twelvefold Dearomative Esterification of (6,6)Carbon Nanobelt.
 6. Engineering Magnesium Metallic Glasses for Enhanced Performance in Biomedical Applications.
 7. Influence of Heating on The Physicochemical Properties of Novel Calcium Silicate-Based Endodontic Sealers.
-8. Anionic TeO (incomplete title)
+8. Anionic TeO 
 9. Three-dimensional spatial plasticizing effect of star-shaped plasticizer for high-performance crosslinked solid polymer electrolyte.
 10. Cyclic expansion extrusion results in successful consolidation and enhancements in mechanical and physical properties of semi biodegradable Ti-Mg composite implants.
 
